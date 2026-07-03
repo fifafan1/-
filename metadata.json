@@ -1,0 +1,6 @@
+{
+  "name": "Аякс Месо",
+  "description": "Фирмени магазини за месо Аякс - гр. Казанлък",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
